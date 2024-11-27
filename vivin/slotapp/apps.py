@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class VivinappConfig(AppConfig):
+class SlotappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'vivinapp'
+    name = 'slotapp'
